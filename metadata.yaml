@@ -1,0 +1,35 @@
+_repo: Jewish-Literature-and-Other-Essays_27901
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Karpeles, Gustav
+    birthdate: 1848
+    deathdate: 1909
+    gutenberg_agent_id: '33002'
+    url: http://www.gutenberg.org/2009/agents/33002
+    wikipedia: http://en.wikipedia.org/wiki/Gustav_Karpeles
+description: ''
+gutenberg_bookshelf: Judaism
+gutenberg_issued: '2009-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27901'
+  lccn: '12034815'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jewish literature -- History and criticism'
+- !lcc 'DS'
+- !lcsh 'Jews'
+tableOfContents: A glance at Jewish literature -- The Talmud -- The Jew in the history
+  of civilization -- Women in Jewish literature -- Moses Maimonides -- Jewish troubadours
+  and minnesingers -- Humor and love in Jewish poetry -- The Jewish stage -- The Jew's
+  quest in Africa -- A Jewish king in Poland -- Jewish society in the time of Mendelssohn
+  -- Leopold Zunz -- Heinrich Heine and Judaism -- The music of the synagogue.
+title: Jewish Literature and Other Essays
+url: http://www.gutenberg.org/ebooks/27901
